@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_settings" type="id">action_Settings</item>
+    <item name="miActionButton" type="id">miActionButton</item>
+    <item name="toolbar" type="id">toolbar</item>
+</resources>
